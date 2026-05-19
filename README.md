@@ -1,1 +1,1 @@
-## Hello Git con algo de Solidity
+## Git con algo de Solidity
